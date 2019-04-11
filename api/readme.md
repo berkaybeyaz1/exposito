@@ -1,6 +1,6 @@
 # Exposito API Backend
 
-![logo](./bundle/logo.png)
+<img src="./bundle/logo.png" style="width:100%"/>
 
 ### Exposito is an open source exposition mass photographing suite written in Node.js, React and Native Android.
 
