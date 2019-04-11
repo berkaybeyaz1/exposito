@@ -1,5 +1,7 @@
 # Exposito API Backend
-<img style="height : 128px; width:100%" src="./bundle/logo.svg">
+<div style = "height:128px;width:100%;">
+<img src="./bundle/logo.svg">
+</div>
 ### Exposito is an open source exposition mass photographing suite written in Node.js, React and Native Android.
 
 ---
